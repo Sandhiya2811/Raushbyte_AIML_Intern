@@ -6,7 +6,10 @@ cd "C:\vs_code\Raushbyte_AIML_Intern\Level_1\Task_2\chatbot"
 
 python chatbot.py
 
-## task 3
+# lEVEL 2
+
+## task_1
+python src/face_detection.py
 
 # git push command
 
