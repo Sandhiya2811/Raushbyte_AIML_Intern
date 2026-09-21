@@ -3,6 +3,7 @@
 > 📘 **AI/ML Internship — Level 1, Task 1: AI Research**
 > 🏢 **Organization:** RaushByte Technologies
 > ✍️ **Prepared by:** [Sandhiya]
+> 📅 **Duration**: [05-09-2026] - [05-12-2026]
 
 ---
 
