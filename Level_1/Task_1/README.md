@@ -71,4 +71,10 @@ The task required a professional research report on the **applications of Artifi
 ## 🛠️ How to View This Repository
 
 * **Read the report:** Open `report/AI_Research_Report.md` (GitHub renders it directly) or the PDF version.
-* **View diagrams:** Open `as
+* **Check sources:** All references with links are in references/sources.md.
+
+---
+
+## 📫 Connect
+* **LinkedIn:** https://www.linkedin.com/in/sandhiya-d-4839423a6
+* **GitHub:** https://github.com/Sandhiya2811
