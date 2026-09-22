@@ -22,6 +22,18 @@ cd into Task_3
 python -m pip install -r requirements.txt
 python src/automation_assistant.py
 
+# Level 3
+
+## task 1
+cd into Task_1
+python -m pip install -r requirements.txt
+python src/assistant.py
+
+## task 2
+cd into Task_2
+python -m pip install -r requirements.txt
+python src/object_detection.py
+
 # git push command
 
 cd "C:\vs_code\Raushbyte_AIML_Intern"

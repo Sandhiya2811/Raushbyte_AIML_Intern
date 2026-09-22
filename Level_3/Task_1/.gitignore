@@ -1,0 +1,13 @@
+# Secrets / environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Personal notes created at runtime (keep the folder, ignore contents)
+data/notes/*.txt
+
+# Streamlit
+*.session_state

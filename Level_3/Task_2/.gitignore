@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Pretrained model weights — auto-downloaded on first run, never commit
+*.pt
+
+# Ultralytics run outputs (created only if its own saving is ever used)
+runs/
+
+# Raw videos are usually large — keep them out of the repository
+data/input/videos/*
+!data/input/videos/.gitkeep
+
+# Generated detection results — screenshots/ holds the demo images instead
+data/output/images/*
+data/output/videos/*
+!data/output/images/.gitkeep
+!data/output/videos/.gitkeep
